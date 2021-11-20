@@ -39,3 +39,6 @@ Thumbs.db
 # Additions #
 #############
 *.csv
+
+# Google docs #
+summary.gdoc
