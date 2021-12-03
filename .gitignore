@@ -41,4 +41,4 @@ Thumbs.db
 *.csv
 
 # Google docs #
-summary.gdoc
+*.gdoc
