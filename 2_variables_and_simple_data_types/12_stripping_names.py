@@ -1,4 +1,6 @@
-# 2-7 Stripping Names
+# 2.2 STRINGS
+## Exercise 2.7
+
 name = "\t Alice \n Jane \t Joe \t"
 
 print(name)
