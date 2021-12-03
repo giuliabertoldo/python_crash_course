@@ -1,4 +1,6 @@
-# 2-6 Famous Quote 2
+# 2.2 STRINGS
+## Exercise 2.6
+
 message = "Hello!"
 famous_person = "Albert Einstein"
 

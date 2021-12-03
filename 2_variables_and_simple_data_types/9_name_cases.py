@@ -1,4 +1,5 @@
-# 1-4 Name cases
+# 2.2 STRINGS
+## Exercise 2.4
 name = "AlicE"
 
 print(name.lower())

@@ -1,4 +1,6 @@
-# 2-5 Famous Quote
+# 2.2 STRINGS
+# Exercise 2.5
+
 quote = "A person who never made a mistake never tried anything new."
 author_name = "Albert"
 author_surname = "Einstein"
