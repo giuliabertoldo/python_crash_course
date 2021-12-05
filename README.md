@@ -11,7 +11,7 @@ Exercises' solutions from the book _Python Crash Course: A hands-on, project-bas
 | 3       	|  Introducing lists 	              | <ul> <li>[X] </li> </ul> |
 | 4       	|  Working with lists              	| <ul> <li>[X] </li> </ul> |
 | 5  	      |  if Statements                  	| <ul> <li>[X] </li> </ul> |
-| 6        	|  Dictionaries                    	| <ul> <li>[ ] </li> </ul> |
+| 6        	|  Dictionaries                    	| <ul> <li>[X] </li> </ul> |
 | 7       	|  User input and while loops     	| <ul> <li>[ ] </li> </ul> |
 | 8       	|  Functions                      	| <ul> <li>[ ] </li> </ul> |
 | 9       	|  Classes                        	| <ul> <li>[ ] </li> </ul> |
