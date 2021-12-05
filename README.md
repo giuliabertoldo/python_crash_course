@@ -16,6 +16,14 @@ Exercises' solutions from the book _Python Crash Course: A hands-on, project-bas
 | 8       	|  Functions                      	| <ul> <li>[ ] </li> </ul> |
 | 9       	|  Classes                        	| <ul> <li>[ ] </li> </ul> |
 | 10      	|  Files and exceptions            	| <ul> <li>[ ] </li> </ul> |
-| 11      	|  Testing your code               	| <ul> <li>[ ] </li> </ul>	|
+| 11      	|  Testing your code               	| <ul> <li>[ ] </li> </ul> |
 
+## Part II: Projects
 
+### Project 2: Data Visualization
+
+| Chapter  	|  Content 	                        | Status  	               |
+|----------:|:--------------------------------- |:-----------------------: |
+| 15        |  Generating data 	                | <ul> <li>[ ] </li> </ul> |
+| 16  	    |  Downloading data               	| <ul> <li>[ ] </li> </ul> |
+| 17       	|  Working with APIs 	              | <ul> <li>[ ] </li> </ul> |
