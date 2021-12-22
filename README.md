@@ -14,7 +14,7 @@ Exercises' solutions from the book _Python Crash Course: A hands-on, project-bas
 | 6        	|  Dictionaries                    	| <ul> <li>[X] </li> </ul> |
 | 7       	|  User input and while loops     	| <ul> <li>[X] </li> </ul> |
 | 8       	|  Functions                      	| <ul> <li>[X] </li> </ul> |
-| 9       	|  Classes                        	| <ul> <li>[ ] </li> </ul> |
+| 9       	|  Classes                        	| <ul> <li>[X] </li> </ul> |
 | 10      	|  Files and exceptions            	| <ul> <li>[ ] </li> </ul> |
 | 11      	|  Testing your code               	| <ul> <li>[ ] </li> </ul> |
 
