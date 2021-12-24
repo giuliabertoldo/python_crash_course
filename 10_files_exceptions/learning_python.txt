@@ -1,0 +1,7 @@
+In Python you can ask for user input.
+
+In Python you can write for loops.
+
+In Python you can write while loops.
+
+In Python you can read text files. 
