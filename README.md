@@ -16,7 +16,7 @@ Exercises' solutions from the book _Python Crash Course: A hands-on, project-bas
 | 8       	|  Functions                      	| <ul> <li>[X] </li> </ul> |
 | 9       	|  Classes                        	| <ul> <li>[X] </li> </ul> |
 | 10      	|  Files and exceptions            	| <ul> <li>[X] </li> </ul> |
-| 11      	|  Testing your code               	| <ul> <li>[ ] </li> </ul> |
+| 11      	|  Testing your code               	| <ul> <li>[X] </li> </ul> |
 
 ## Part II: Projects
 
